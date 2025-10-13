@@ -145,7 +145,6 @@ int main(void) {
             chain1[i].schedDepMin %= 1440;
         }
         formatTime(chain1[i].schedDepMin, hhmm);
-        printf("badMinute is: %d\n", badMinute);
         printf("%s %d %s\n", chain1[i].flightNo, chain1[i].chainNo, hhmm);
     }
 

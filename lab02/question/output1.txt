@@ -1,0 +1,14 @@
+1) Tutunamayanlar | Oguz_Atay | 1972
+2) Don_Kisot | Miguel_de_Cervantes | 9954
+3) Kurk_Mantolu_Madonna | Sabahattin_Ali | 8028
+4) Suc_ve_Ceza | Fyodor_Dostoyevski | 6279
+5) Savas_ve_Baris | Lev_Tolstoy | 1869
+6) Anna_Karenina | Lev_Tolstoy | 1877
+7) Saatleri_Ayarlama_Enstitusu | Ahmet_Hamdi_Tanpinar | 1961
+8) Ince_Memed | Yasar_Kemal | 1955
+9) Aylak_Adam | Yusuf_Atilgan | 1959
+10) Simyaci | Paulo_Coelho | 1988
+11) Yabanci | Albert_Camus | 1942
+12) Dune | Frank_Herbert | 1965
+13) Foundation | Isaac_Asimov | 1951
+14) The_Hobbit | J_R_R_Tolkien | 1937

@@ -1,0 +1,17 @@
+ADD_BEG Kurk_Mantolu_Madonna 8028 Sabahattin_Ali
+ADD_END Suc_ve_Ceza 6279 Fyodor_Dostoyevski
+ADD_BEG Don_Kisot 9954 Miguel_de_Cervantes
+ADD_END Savas_ve_Baris 1869 Lev_Tolstoy
+ADD_END Anna_Karenina 1877 Lev_Tolstoy
+ADD_BEG Tutunamayanlar 1972 Oguz_Atay
+ADD_END Saatleri_Ayarlama_Enstitusu 1961 Ahmet_Hamdi_Tanpinar
+ADD_END Ince_Memed 1955 Yasar_Kemal
+ADD_END Calikusu 1922 Resat_Nuri_Guntekin
+ADD_END Aylak_Adam 1959 Yusuf_Atilgan
+ADD_END Simyaci 1988 Paulo_Coelho
+ADD_END Yabanci 1942 Albert_Camus
+ADD_END Dune 1965 Frank_Herbert
+ADD_END Foundation 1951 Isaac_Asimov
+ADD_END The_Hobbit 1937 J_R_R_Tolkien
+DEL_ISBN 1972
+PRINT
